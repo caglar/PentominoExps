@@ -6,6 +6,7 @@ This is a repo for the experiments in,
 By using the codes in this repo, it is possible to reproduce the experiments in.
 
 To be able to reproduce our results, you need to have the specific versions of the following python packages:
+
     * Numpy: 1.9.2
     * Theano: 0.7.0.dev-079181cf9e503d61cb9cd830ddc87c81b01fbc6b
     * Scipy: 0.16.0
